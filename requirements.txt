@@ -1,0 +1,4 @@
+azure_storage==0.37.0
+openai==0.23.0
+python-dotenv==0.21.0
+SpeechRecognition==3.9.0
